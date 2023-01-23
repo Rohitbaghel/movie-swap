@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore, collection } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
+  apiKey: "AIzaSyBWDggqVQy2jhNUT6ThnDsTokZ-TN4Gi1U",
   authDomain: "movie-swap-2ea99.firebaseapp.com",
   projectId: "movie-swap-2ea99",
   storageBucket: "movie-swap-2ea99.appspot.com",
